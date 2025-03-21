@@ -6,7 +6,7 @@ This directory contains the datasets used in our agricultural data analysis.
 
 ### 1. Agricultural Production Dataset (APY)
 - **File**: apy.csv
-- **Size**: 1.5MB (246,091 entries across 7 columns)
+- **Size**: 15.32 MB (246,091 entries across 7 columns)
 - **Source**: TRAIN-IT Hackathon 2025
 - **Description**: State-wise, district-wise crop production statistics
 - **Columns**:
@@ -20,7 +20,7 @@ This directory contains the datasets used in our agricultural data analysis.
 
 ### 2. Agricultural Commodity Price Dataset
 - **File**: Price_Agriculture_commodities_Week.csv
-- **Size**: 15.32MB (23,093 entries across 10 columns)
+- **Size**: 1.9 MB (23,093 entries across 10 columns)
 - **Source**: TRAIN-IT Hackathon 2025
 - **Description**: Market prices of various agricultural commodities
 - **Columns**:
