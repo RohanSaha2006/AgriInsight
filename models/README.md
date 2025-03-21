@@ -27,7 +27,7 @@ The models can be recreated using the code in our notebook:
 - The model uses 100 estimators with default parameters
 - Label encoders are created for State, District, Season, and Crop variables
 
-## Additional Files
-For model evaluation and recommendations, see:
-- **model_performance.csv**: Detailed metrics on model performance
-- **crop_recommendations.csv**: Generated crop recommendations by region
+## Related Files
+The following files containing model outputs are located in the results directory:
+- **results/metrics/model_performance.csv**: Detailed metrics on model performance
+- **results/recommendations/crop_recommendations.csv**: Generated crop recommendations by region
