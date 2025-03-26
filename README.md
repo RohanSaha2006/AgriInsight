@@ -68,8 +68,8 @@ plotly
 4. Explore the crop recommendations for specific regions
 
 ### Team: The Technical Firsts
-- Shambhavi Srivastava
 - Rohan Saha
+- Shambhavi Srivastava 
 
 ### Acknowledgements
 - Data provided by TRAIN-IT Hackathon 2025 organizers
